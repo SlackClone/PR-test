@@ -1,4 +1,4 @@
 class ApplicationController < ActionController::Base
-  def ck
+  def ckk
   end
 end
